@@ -8,11 +8,11 @@ Use seeder data to populate the database or alternatively leverage a third party
 The API should have the ability to do the following:
 
 - Retrieve basic data about the movie
-- Retrieve reviews
+- Retrieve a list of reviews
 - Store a review for the movie
 
 Frontend:
-Create a simple, yet visual appealing UI which displays the movie data and a list of reviews from the API.
+Create a simple, yet visual appealing UI which displays the movie data and the reviews from your API.
 There should also be the ability to submit a new review. Use any javascript framework or patterns you are most comfortable with to complete the task.
 
 The frontend should have the ability to do the following:
@@ -21,4 +21,9 @@ The frontend should have the ability to do the following:
 - List the reviews
 - Submit a new review
 
-Consideration should be given for pagination, as well as clean and testable code.
+Consideration should be given for pagination, as well as clean and testable code. Git can also be used to document the progress during the task.
+
+##### Submission:
+Once the task is complete, archive your code and email to pc@dreamr.uk
+
+Thanks, and good luck! 🙂
