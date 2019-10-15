@@ -24,6 +24,6 @@ The frontend should have the ability to do the following:
 Consideration should be given for pagination, as well as clean and testable code. Git can also be used to document the progress during the task.
 
 ##### Submission:
-Once the task is complete, archive your code and email to pc@dreamr.uk
+Once the task is complete, archive your code and email to phill.clarence@cuhu.co.uk
 
 Thanks, and good luck! 🙂
